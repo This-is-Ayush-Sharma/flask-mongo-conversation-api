@@ -1,0 +1,468 @@
+[{
+  "_id": {
+    "$oid": "67a8b00b6a70b8f077c59538"
+  },
+  "conversation_id": "3b2300cd-3d0f-4c6b-99db-0746960bdbc9",
+  "user_id": "admin@superchat.in",
+  "last_updated": {
+    "$date": "2025-02-09T13:39:23.319Z"
+  },
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hello!"
+    },
+    {
+      "role": "bot",
+      "content": "Nice to meet you! I'm a chatbot developed by Superchat.llc, a organization that integrates AI solutions for clients and organizations. How can I assist you today?"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67a985de6a70b8f077c5953a"
+  },
+  "user_id": "anupama.amarp@gmail.com",
+  "conversation_id": "2254eb85-9cd5-4531-8ec3-c4a9dd339515",
+  "last_updated": {
+    "$date": "2025-02-10T04:51:42.224Z"
+  },
+  "messages": [
+    {
+      "role": "user",
+      "content": "who are you?"
+    },
+    {
+      "role": "bot",
+      "content": "I am a chatbot developed by Superchat.llc, a organization that integrates AI solutions for its clients and organizations."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67a9aaf86a70b8f077c5953b"
+  },
+  "conversation_id": "null",
+  "user_id": "19ruchita.revanna@gmail.com",
+  "last_updated": {
+    "$date": "2025-02-10T07:30:37.569Z"
+  },
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hello"
+    },
+    {
+      "role": "bot",
+      "content": "It appears that the duckduckgo-search package is not installed on your system. You can resolve this issue by running the command `pip install -U duckduckgo-search` in your terminal or command prompt. This will install the package and allow you to import it in your Python script."
+    },
+    {
+      "role": "user",
+      "content": "Hi"
+    },
+    {
+      "role": "bot",
+      "content": "I apologize for the confusion. It seems that the duckduckgo-search package is not installed on your system. You can install it by running the command `pip install -U duckduckgo-search` in your terminal or command prompt."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67a9af996a70b8f077c5953c"
+  },
+  "user_id": "anupama.amarp@gmail.com",
+  "conversation_id": "1967fc1e-bbba-4de4-bedd-7358671cbc90",
+  "last_updated": {
+    "$date": "2025-02-10T07:49:45.758Z"
+  },
+  "messages": [
+    {
+      "role": "user",
+      "content": "who are you?"
+    },
+    {
+      "role": "bot",
+      "content": "I am a chatbot developed by Superchat.llc, a organization that integrates AI solutions for clients and organizations."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67a9b8e06a70b8f077c5953d"
+  },
+  "user_id": "karunakarcheekolu09@gmail.com",
+  "conversation_id": "98ec4c4e-1f61-44a7-8da4-fcbc146669e5",
+  "last_updated": {
+    "$date": "2025-02-10T08:29:20.213Z"
+  },
+  "messages": [
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "bot",
+      "content": "Hello! It's nice to connect with you. How can I assist you today?"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67a9b8e76a70b8f077c5953e"
+  },
+  "user_id": "karunakarcheekolu09@gmail.com",
+  "conversation_id": "75e535fb-1092-4310-bb57-1f8aa1d1d26e",
+  "last_updated": {
+    "$date": "2025-02-10T08:29:27.652Z"
+  },
+  "messages": [
+    {
+      "role": "user",
+      "content": "time?"
+    },
+    {
+      "role": "bot",
+      "content": "The current time is 12:45 PM."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67a9b8f16a70b8f077c5953f"
+  },
+  "user_id": "karunakarcheekolu09@gmail.com",
+  "conversation_id": "e61c0902-fd83-4ff2-8b07-3ff527fa6cb1",
+  "last_updated": {
+    "$date": "2025-02-10T08:29:37.778Z"
+  },
+  "messages": [
+    {
+      "role": "user",
+      "content": "you're wrong"
+    },
+    {
+      "role": "bot",
+      "content": "I apologize for the mistake. Can you please specify what I got wrong so I can correct it and provide a accurate response?"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67a9b8f96a70b8f077c59540"
+  },
+  "user_id": "karunakarcheekolu09@gmail.com",
+  "conversation_id": "07c0b38f-f32f-415d-bfbd-f473489074f9",
+  "last_updated": {
+    "$date": "2025-02-10T08:29:45.041Z"
+  },
+  "messages": [
+    {
+      "role": "user",
+      "content": "2pm"
+    },
+    {
+      "role": "bot",
+      "content": "Good afternoon!"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67a9b8fd6a70b8f077c59541"
+  },
+  "user_id": "karunakarcheekolu09@gmail.com",
+  "conversation_id": "aca98c89-01af-4bf6-a538-a9cd0516f0da",
+  "last_updated": {
+    "$date": "2025-02-10T08:29:49.204Z"
+  },
+  "messages": [
+    {
+      "role": "user",
+      "content": "time?"
+    },
+    {
+      "role": "bot",
+      "content": "The current time is 12:45 PM."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67a9b9076a70b8f077c59542"
+  },
+  "conversation_id": "cf5330be-914b-4e06-8523-68351ecc3247",
+  "user_id": "karunakarcheekolu09@gmail.com",
+  "last_updated": {
+    "$date": "2025-02-10T08:29:59.952Z"
+  },
+  "messages": [
+    {
+      "role": "user",
+      "content": "country?"
+    },
+    {
+      "role": "bot",
+      "content": "The United States."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67a9b9106a70b8f077c59543"
+  },
+  "user_id": "karunakarcheekolu09@gmail.com",
+  "conversation_id": "25c5cb29-c92e-4b7d-b735-bcb6bfeed9d6",
+  "last_updated": {
+    "$date": "2025-02-10T08:30:08.957Z"
+  },
+  "messages": [
+    {
+      "role": "user",
+      "content": "date?"
+    },
+    {
+      "role": "bot",
+      "content": "The current date is March 14, 2023."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67a9ba7d6a70b8f077c59544"
+  },
+  "user_id": "karunakarcheekolu09@gmail.com",
+  "conversation_id": "c80e6cad-021d-441d-9868-2b130e0245e4",
+  "last_updated": {
+    "$date": "2025-02-10T08:36:13.459Z"
+  },
+  "messages": [
+    {
+      "role": "user",
+      "content": "ft"
+    },
+    {
+      "role": "bot",
+      "content": "I'm happy to help. However, I'm not sure what \"ft\" means. Could you please clarify or rephrase your question so I can provide a more accurate response?"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67a9d6806a70b8f077c59545"
+  },
+  "user_id": "anupama.amarp@gmail.com",
+  "conversation_id": "b0462b61-e2b5-4a2e-a18e-1161f587a677",
+  "last_updated": {
+    "$date": "2025-02-10T10:35:44.625Z"
+  },
+  "messages": [
+    {
+      "role": "user",
+      "content": "who are you?"
+    },
+    {
+      "role": "bot",
+      "content": "I am a chatbot developed by Superchat.llc, an organization that specializes in integrating AI solutions for clients and organizations."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67a9d6ab6a70b8f077c59546"
+  },
+  "user_id": "anupama.amarp@gmail.com",
+  "conversation_id": "86454714-5c50-40d5-8a50-4b8a04de59cc",
+  "last_updated": {
+    "$date": "2025-02-10T10:36:27.375Z"
+  },
+  "messages": [
+    {
+      "role": "user",
+      "content": "who are you?"
+    },
+    {
+      "role": "bot",
+      "content": "I am a chatbot developed by Superchat.llc, an organization that helps integrate AI solutions for our clients and organizations."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67a9e10c6a70b8f077c59547"
+  },
+  "user_id": "anupama.amarp@gmail.com",
+  "conversation_id": "e5e97512-b594-43c6-ac18-e5fb46227c09",
+  "last_updated": {
+    "$date": "2025-02-10T11:20:44.829Z"
+  },
+  "messages": [
+    {
+      "role": "user",
+      "content": "who are you?"
+    },
+    {
+      "role": "bot",
+      "content": "I am a chatbot developed by Superchat.llc, a organization that helps integrate AI solutions for clients and organizations."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67a9e1136a70b8f077c59548"
+  },
+  "conversation_id": "cc809a2b-d443-40da-bf1f-cbd8895d0ae2",
+  "user_id": "anupama.amarp@gmail.com",
+  "last_updated": {
+    "$date": "2025-02-10T11:20:51.610Z"
+  },
+  "messages": [
+    {
+      "role": "user",
+      "content": null
+    },
+    {
+      "role": "bot",
+      "content": "I'm happy to assist you."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67a9e1166a70b8f077c59549"
+  },
+  "conversation_id": "798e8e64-be17-481e-a962-e17052ff9740",
+  "user_id": "anupama.amarp@gmail.com",
+  "last_updated": {
+    "$date": "2025-02-10T11:20:54.242Z"
+  },
+  "messages": [
+    {
+      "role": "user",
+      "content": null
+    },
+    {
+      "role": "bot",
+      "content": "I'm happy to assist you."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67a9e1186a70b8f077c5954a"
+  },
+  "conversation_id": "c879943f-b37d-445f-b145-98754e85d46a",
+  "user_id": "anupama.amarp@gmail.com",
+  "last_updated": {
+    "$date": "2025-02-10T11:20:56.241Z"
+  },
+  "messages": [
+    {
+      "role": "user",
+      "content": null
+    },
+    {
+      "role": "bot",
+      "content": "I'm happy to assist you. I'm a chatbot developed by Superchat.llc, a company that helps integrate AI solutions for our clients and organizations."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67a9e11e6a70b8f077c5954b"
+  },
+  "conversation_id": "9281e8bf-c8a5-4982-8cfd-bd15c3e756f1",
+  "user_id": "anupama.amarp@gmail.com",
+  "last_updated": {
+    "$date": "2025-02-10T11:21:02.552Z"
+  },
+  "messages": [
+    {
+      "role": "user",
+      "content": null
+    },
+    {
+      "role": "bot",
+      "content": "I'm happy to assist you."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67a9e1266a70b8f077c5954c"
+  },
+  "conversation_id": "6c61a519-6042-4efc-b385-473a89875ab6",
+  "user_id": "anupama.amarp@gmail.com",
+  "last_updated": {
+    "$date": "2025-02-10T11:21:10.619Z"
+  },
+  "messages": [
+    {
+      "role": "user",
+      "content": "who are you"
+    },
+    {
+      "role": "bot",
+      "content": "I am a chatbot developed by Superchat.llc, an organization that helps clients and organizations integrate AI solutions."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67aa0f3d6a70b8f077c5954d"
+  },
+  "user_id": "karunakarcheekolu09@gmail.com",
+  "conversation_id": "72d23cdb-c249-4fea-9be8-61ea6bffd681",
+  "last_updated": {
+    "$date": "2025-02-10T14:37:49.613Z"
+  },
+  "messages": [
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "bot",
+      "content": "Hello! It's nice to connect with you. I'm a chatbot developed by Superchat.llc, a organization that specializes in integrating AI solutions for our clients and organizations. How can I assist you today?"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67aa0f7f6a70b8f077c5954e"
+  },
+  "user_id": "karunakarcheekolu09@gmail.com",
+  "conversation_id": "a358313b-d49f-4063-841d-eed9b7f287c1",
+  "last_updated": {
+    "$date": "2025-02-10T14:38:55.285Z"
+  },
+  "messages": [
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "bot",
+      "content": "Hello! Welcome to our conversation. I'm happy to assist you with any questions or topics you'd like to discuss. How can I help you today?"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67aa10036a70b8f077c5954f"
+  },
+  "conversation_id": "da52f89e-7cbc-4e79-89b9-b63f9608da0a",
+  "user_id": "karunakarcheekolu09@gmail.com",
+  "last_updated": {
+    "$date": "2025-02-10T14:41:07.117Z"
+  },
+  "messages": [
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "bot",
+      "content": "Hello! It's great to connect with you. I'm here to assist with any questions or topics you'd like to discuss. How can I help you today?"
+    }
+  ]
+}]
