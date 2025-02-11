@@ -8,10 +8,10 @@ client = MongoClient("mongodb://localhost:27017/")
 db = client["sampleDB"]
 collection = db["sample"]
 
-@app.route("/conversations", methods=["GET"])
-def get_all_data():
+@app.route("/conversations/<string:user_id>", methods=["GET"])
+def get_all_data(user_id):
     try:
-        data = list(collection.find({}, {"_id": 0}))
+        data = list(collection.find({"user_id": user_id}, {"_id": 0}))
         return jsonify(data), 200
     except Exception as e:
         return jsonify({"error": "Internal Server Error", "details": str(e)}), 500
